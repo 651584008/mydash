@@ -1,3 +1,4 @@
+//关于时间格式转换的函数
 function formatTime(date) {
 	var year = date.getFullYear()
 	var month = date.getMonth()
